@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{06B8848C-FF0E-4FBD-B174-75BC67734112}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Test/SecondActivity.cs">
+    <Files>
+      <File FileName="Test/RegisterActivity.cs" Line="12" Column="25" />
+      <File FileName="Test/Model/EmotionModel.cs" Line="42" Column="2" />
+      <File FileName="Test/Helper/ImageHelper.cs" Line="12" Column="24" />
+      <File FileName="Test/SecondActivity.cs" Line="276" Column="13" />
+      <File FileName="Test/LoginActivity.cs" Line="60" Column="32" />
+      <File FileName="Test/TreasureActivity.cs" Line="16" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.HappySecure AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_x86_2" AndroidDesignerPreferredTheme="Theme.Design.Light" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
